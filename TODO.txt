@@ -1,2 +1,2 @@
-1) first item
-2) second todo
+1) first item (done)
+2) second todo (done)
